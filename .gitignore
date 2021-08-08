@@ -1,0 +1,5 @@
+*.pth
+*.json
+test/
+test_v2/
+train/
