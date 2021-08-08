@@ -1,3 +1,11 @@
+*.json
+*.pth
+coco/
+cow-baseline/
+test/
+test_v2/
+train/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
